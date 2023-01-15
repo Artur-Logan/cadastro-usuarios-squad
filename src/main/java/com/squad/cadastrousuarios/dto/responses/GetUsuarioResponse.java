@@ -4,7 +4,7 @@ import com.squad.cadastrousuarios.entities.enuns.TipoUsuario;
 import lombok.Data;
 
 @Data
-public class GetUuarioResponse {
+public class GetUsuarioResponse {
 
     private Long id;
     private String nome;
